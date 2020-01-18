@@ -1,7 +1,7 @@
 {
   "name": "@modern-dev/jslong",
   "version": "0.1.0",
-  "description": "",
+  "description": "The jslong - is a pure JavaScript implementation of Long class for representing a 64-bit two's-complement integer value.",
   "main": "lib/cjs/index.js",
   "module": "lib/es6/index.js",
   "typings": "lib/cjs/index.d.ts",
