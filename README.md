@@ -81,6 +81,7 @@ constructor(low: number, high: number)
 Based on the [Long implementation](https://github.com/google/closure-library/blob/e7bfe67bf37f5df41f4b0bbab1724ad1272fca66/closure/goog/math/long.js#L82) for Google's [Closure Library](https://github.com/google/closure-library).
 
 Copyright 2009 The Closure Library Authors. All Rights Reserved.
+
 Copyright (c) 2020 Bohdan Shtepan
 
 ---
